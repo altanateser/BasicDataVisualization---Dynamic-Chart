@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layer.UI", "Layer.UI\Layer.UI.csproj", "{531EF512-1740-45B8-B958-E9CF847A66B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layer.DATA", "Layer.DATA\Layer.DATA.csproj", "{DC6E8894-598A-42EA-BB61-274D1561CF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{531EF512-1740-45B8-B958-E9CF847A66B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531EF512-1740-45B8-B958-E9CF847A66B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531EF512-1740-45B8-B958-E9CF847A66B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531EF512-1740-45B8-B958-E9CF847A66B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6E8894-598A-42EA-BB61-274D1561CF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6E8894-598A-42EA-BB61-274D1561CF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6E8894-598A-42EA-BB61-274D1561CF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6E8894-598A-42EA-BB61-274D1561CF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453F14B5-CDE5-48B7-9F03-19E278E36435}
+	EndGlobalSection
+EndGlobal
